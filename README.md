@@ -1,0 +1,2 @@
+# Ortus
+Ortus TradingView Bot
